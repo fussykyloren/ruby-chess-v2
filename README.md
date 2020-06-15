@@ -5,7 +5,7 @@
 - [Status](https://github.com/fussykyloren/ruby-chess-v2#status)
 - [Instructions](https://github.com/fussykyloren/ruby-chess-v2#instructions)
 ## Information
-Here's a new game for you! Play Connect Four straight from your console! All the files you will need to run this are in this repository with the instructions in the instructions section. This program is built using Ruby v2.6.3p62. Lastly, you can run the game on repl.it! Just click below.
+Here's a new game for you! Play Connect Four straight from your console! All the files you will need to run this are in this repository with the instructions in the instructions section. This program is built using Ruby v2.6.3p62.
 ## Status
 At this time, the project is __*finished*__. The implementation is VERY basic and I will revisit this project at a later time.
 ## Instructions
